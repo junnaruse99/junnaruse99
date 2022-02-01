@@ -3,6 +3,7 @@
   <a href="https://www.linkedin.com/in/jun-naruse/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
+  <br>
   <a href="https://www.junnaruse.com" rel="nofollow noreferrer">
     Personal Website
   </a>
