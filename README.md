@@ -3,14 +3,17 @@
   <a href="https://www.linkedin.com/in/jun-naruse/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
+  <a href="https://www.junnaruse.com" rel="nofollow noreferrer">
+    Personal Website
+  </a>
 </p>
 
 <br>
 
 <ul>
-  <li>🔭 I’m currently doing a Mechatronical Engineering degree</li>
-  <li>🌱 I’m currently learning Django</li>
-  <li>📫 How to reach me: jun.naruse@pucp.edu.pe</li>
+  <li>🔭 I have a Mechatronical Engineering degree</li>
+  <li>🌱 I’m currently learning Flask</li>
+  <li>📫 How to reach me: jun.naruse@gmail.com</li>
 </ul>
 
 <!--
