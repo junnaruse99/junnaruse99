@@ -13,7 +13,7 @@
 
 <ul>
   <li>🔭 I have a Mechatronical Engineering degree</li>
-  <li>🌱 I’m currently learning Flask</li>
+  <li>🌱 I’m currently learning NextJs</li>
   <li>📫 How to reach me: jun.naruse@gmail.com</li>
 </ul>
 
